@@ -1,0 +1,108 @@
+body{
+    height: 100vh;
+    margin: 0;
+    background-image: url('https://cdn.pixabay.com/video/2020/05/06/38268-415950877_tiny.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.FundoTela {
+    background-color: #585859;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 30%;
+    border-radius: 6%;
+    padding: 20px;
+    margin-top: 10%;
+}
+
+.container{
+    display: flex;
+}
+
+.h1{
+    font-family: 'Nunito', sans-serif;
+    color: #FEFDF9;
+}
+
+.TextoUm{
+    font-family: 'Nunito', sans-serif;
+    color: #FEFDF9;
+    font-size: 17px;
+}
+
+.FotoDePerfil{
+    width: 30%;
+    height: auto;
+}
+
+.InputsCadastroUm{
+    border: 0;
+    border-radius: 6px;
+    width: 200px;
+    height: 20px;
+    color: #FEFDF9;
+    color: #3F3F40;
+}
+
+.TextoDois{
+    font-family: 'Nunito', sans-serif;
+    color: #FEFDF9;
+    font-size: 17px;
+}
+
+.InputsCadastroDois{
+    border: 0;
+    border-radius: 6px;
+    width: 200px;
+    height: 20px;
+    color: #FEFDF9;
+    color: #3F3F40;
+}
+
+.InputsCadastroTres{
+    align-items: flex-start;
+}
+
+.TextoTres{
+    font-family: 'Nunito', sans-serif;
+    color: #FEFDF9;
+    font-size: 17px;
+    text-align: right;
+}
+
+.radios{
+    width: fit-content;
+    text-align: left;
+}
+
+.lado-1{
+    width: fit-content;
+}
+
+.lado-2{
+    width: fit-content;
+    
+}
+
+.TextoCadastroQuatro{
+    font-family: 'Nunito', sans-serif;
+    color: #FEFDF9;
+    font-size: 17px;
+}
+
+.TextoColorido{
+    font-family: 'Nunito', sans-serif;
+    color: #cae9ff;
+    font-size: 14px;
+}
+
+.boton{
+    color: #FEFDF9;
+    border-radius: 10px;
+    font-family: 'Nunito', sans-serif;
+    color: #3F3F40;
+    font-weight: bold;
+    font-size: 18px;
+}
